@@ -8,7 +8,7 @@ Skills:
 
 • Languages and Frameworks: R, Python, C++, JavaScript, Apex, HTML, CSS, XML, SQL.
 
-• Software: AWS, Power BI, Tableau, MS-Office, GitHub, Salesforce, AEM, Google Analytics, Jira, Confluence, Kaizen.
+• Software: AWS, Power BI, Tableau, MS-Office, MS Viso GitHub, Salesforce, AEM, Google Analytics, Jira, Confluence.
 
 
 
